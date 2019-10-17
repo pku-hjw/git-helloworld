@@ -2,4 +2,14 @@
 
 Hello World!
 
-create a new branch ,simple
+<<<<<<< HEAD
+```
+Creating a new branch is quick AND simple.
+```
+
+```
+Creating a new branch is quick AND simple.
+```
+
+>>>>>>> featrue1
+
